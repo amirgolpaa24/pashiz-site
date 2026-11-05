@@ -36,16 +36,10 @@ main {
 header { margin-bottom: 32px; }
 
 .mark {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  width: 56px;
-  height: 56px;
-  border-radius: 14px;
-  background: var(--accent);
-  color: var(--bg);
-  font-weight: 700;
-  font-size: 26px;
+  display: block;
+  width: 64px;
+  height: 64px;
+  border-radius: 15px;
   margin-bottom: 16px;
 }
 
